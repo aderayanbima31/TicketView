@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\adera\AndroidStudioProjects\TicketView-master\TicketView.iml" filepath="C:\Users\adera\AndroidStudioProjects\TicketView-master\TicketView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicketView-master.iml" filepath="$PROJECT_DIR$/TicketView-master.iml" />
+      <module fileurl="file://C:\Users\adera\AndroidStudioProjects\TicketView-master\sample\sample.iml" filepath="C:\Users\adera\AndroidStudioProjects\TicketView-master\sample\sample.iml" />
+      <module fileurl="file://C:\Users\adera\AndroidStudioProjects\TicketView-master\ticketview\ticketview.iml" filepath="C:\Users\adera\AndroidStudioProjects\TicketView-master\ticketview\ticketview.iml" />
+    </modules>
+  </component>
+</project>
